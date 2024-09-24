@@ -1,0 +1,20 @@
+NodeJS is a Runtime not a Programming Language.
+JavaScript Programming Language.
+
+JavaScript Runtime:
+execute with the contexts.
+context=DOM.
+
+NodeJS is a C++ Program.
+NodeJS is a JavaScript Runtime powered by Chrome V8 Engine. It can run outside browser
+can run in web server.
+
+How web server work?
+Non-blocking I/O:
+Single thread request accept then send the request to another.Current thread will not busy
+for waiting that request.
+NodeJS is not suitable for cpu intensive task.we use it for I/O intensive task.
+
+
+
+Global object:
